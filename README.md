@@ -24,7 +24,7 @@ yarn start
 this frontend folder is the UI for chat with other user in realtime
 
 ```
-cd Frontend
+cd frontend
 ```
 
 ```
